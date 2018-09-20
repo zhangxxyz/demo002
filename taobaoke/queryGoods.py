@@ -1,5 +1,4 @@
 import top.api
-import requests
 
 productionUrl = "https://eco.taobao.com/router/rest"
 appkey = "25083490"
